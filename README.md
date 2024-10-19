@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👋 Hey there! I'm a first-year college student passionate about technology and coding. I’m currently diving into JavaScript and learning Java while building web projects using HTML and CSS.<br><br>🌐 I’m deeply interested in cloud computing, competitive programming, and making contributions to open-source.
+👋 I'm a first-year college student passionate about technology and coding. I’m currently diving into JavaScript and learning Java while building web projects using HTML and CSS.<br><br>🌐 I’m deeply interested in cloud computing, competitive programming, and making contributions to open-source.
 
 
 ## 🌐 Socials:
