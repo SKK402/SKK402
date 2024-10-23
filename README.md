@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 👋 I'm a first-year college student passionate about technology and coding. I’m currently diving into JavaScript and learning Java while building web projects using HTML and CSS.<br><br>🌐 I’m deeply interested in cloud computing, competitive programming, and making contributions to open-source.
-[![](https://visitcount.itsvg.in/api?id=SKK402&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 ## 🌐 Socials:
@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SKK402&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=SKK402&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
