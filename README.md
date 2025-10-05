@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Som Kunar</h1>
-<p>A first-year CS student with a passion for technology and innovation. 🚀 I'm always exploring ways to solve real-world problems using AI, ML and Programming.</p>
+<p>A Second-year CS student with a passion for technology and innovation. 🚀 I'm always exploring ways to solve real-world problems using AI, ML and Programming.</p>
 
 <!-- Animated GIFs Section -->
 <div align="center">
