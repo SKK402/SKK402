@@ -74,6 +74,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=SKK402&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=SKK402&theme=shadow_green&hide_border=false)
 
+## 📈 GitHub Activity Graph
+![Som's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SKK402&theme=github-compact&area=true)
+
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=SKK402&icon=0&color=0)](https://visitcount.itsvg.in)
