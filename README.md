@@ -1,27 +1,30 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+I+am+Som;Machine+Learning+%26+AI+Research+Enthusiast&size=28&width=700&center=true&vCenter=true&color=36BCF7)](https://git.io/typing-svg)
 <!-- Animated GIFs Section -->
-## 💫 About Me
-🔭 Working on: Machine Learning foundations, research-oriented ML projects  
-👯 Collaborating on: ML/DL research, LLM reasoning & evaluation, open-source ML  
-🤝 Looking for: Research mentorship, paper writing guidance, feedback on ideas  
-🌱 Learning: Deep Learning, NLP, Transformers, ML math (LA, Prob, Optimization)  
-💬 Ask me about: ML fundamentals, PyTorch  
+
+- 🔭 Working on: ML-driven applications, backend systems, full-stack projects  
+- 👯 Collaborating on: Open-source, ML systems, real-world software projects  
+- 🤝 Looking for: Internships & entry-level roles (ML Engineer / Software Engineer)  
+- 🌱 Learning: Advanced ML, system design, scalable architectures  
+- 💬 Ask me about: Python, ML pipelines, APIs, backend development  
 
 ---
 
 ## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kunar_skk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/som-kunar-211631319)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@somkunar208)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kunar_som39270)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kunar_skk)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:somkunar208@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Skills
 
 ### 🧠 Machine Learning & Data
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,opencv&perline=7" />
+</p>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
@@ -31,10 +34,13 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)
 
-
 ---
 
 ### ⚙️ Backend & APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express&perline=7" />
+</p>
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
@@ -70,20 +76,17 @@
 
 ---
 
+## 🎯 Open To
+- Software Engineering Internships  
+- Machine Learning Engineer Internships  
+- Full-stack / Backend Engineering Roles  
+- Open-source and startup collaborations  
+
+---
+
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=SKK402&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=SKK402&theme=shadow_green&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SKK402&theme=shadow_green&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SKK402&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
